@@ -1,0 +1,13 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "hassd Relay",
+        "description": "Set up the hassd Relay integration."
+      }
+    },
+    "abort": {
+      "already_configured": "hassd Relay is already configured."
+    }
+  }
+}

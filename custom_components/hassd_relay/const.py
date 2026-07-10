@@ -1,0 +1,1 @@
+DOMAIN = "hassd_relay"
